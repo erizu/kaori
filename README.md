@@ -1,2 +1,0 @@
-# kaori
-Campo de pruebas
